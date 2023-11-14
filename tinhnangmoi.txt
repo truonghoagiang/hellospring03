@@ -1,1 +1,2 @@
 Show Items Function
+Chuc nang trang chu homepage
